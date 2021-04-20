@@ -5,7 +5,7 @@ Third party Social Media LinkedIn login in Laravel
 **Installation**
 -
 
-Step 1. clone package [git clone https://github.com/pringal/Social-Media-LinkedIn-login-in-Laravel]
+Step 1. clone package [git clone https://github.com/pringal/Social-Media-LinkedIn-login-in-Laravel.git]
 
 Step 2. install composer dependency [composer install]
 
@@ -15,7 +15,7 @@ Step 3. Follow this article <a href="https://codescompanion.com/social-media-lin
 **Contribute**
 -
 
-Contributions are welcome and will be fully credited. We accept contributions via Pull Requests on [GitHub](https://github.com/pringal/Social-Media-LinkedIn-login-in-Laravel).
+Contributions are welcome and will be fully credited. We accept contributions via Pull Requests on [GitHub](https://github.com/pringal/Social-Media-LinkedIn-login-in-Laravel.git).
 
 **Loveware**
 -
